@@ -9,7 +9,7 @@
 - **Languages**: Java (Streams, multithreading, DSA),Python, C#, C++/C, SQL
 - **Frameworks**: Spring Boot, Swagger/OpenAPI, Hibernate ORM
 - **Architecture**: REST APIs, microservices, operational hygiene
-- **Tools && Technologies**: PostgreSQL, Mongodb, Git, Postman, IntelliJ
+- **Tools & Technologies**: PostgreSQL, Mongodb, Git, Postman, IntelliJ
 
 ---
 
