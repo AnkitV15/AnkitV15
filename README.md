@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit
 
-🎯 Backend engineer & systems architect in training, specializing in building traceable, resilient systems with Java. I recently graduated with a B.Tech in Computer Science and am actively applying to backend roles.
+🎯 Backend engineer specializing in building traceable, resilient systems with Java. I recently graduated with a B.Tech in Computer Science and am actively applying to backend roles.
 
 ---
 
