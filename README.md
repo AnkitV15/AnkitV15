@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit
 
-🎯 Backend engineer & systems architect in training, specializing in building traceable, resilient systems with Java. I recently graduated with a B.Tech in Computer Science and am actively applying to backend roles—especially at tech-forward companies like Mastercard.
+🎯 Backend engineer & systems architect in training, specializing in building traceable, resilient systems with Java. I recently graduated with a B.Tech in Computer Science and am actively applying to backend roles.
 
 ---
 
@@ -20,10 +20,6 @@
 
 - **[TrackTrove Backend](https://github.com/AnkitV15/tracktrove-backend)**  
   A traceable micro-transaction explorer built using Spring Boot, Redis, and PostgreSQL. Designed for transparency and reliability, this backend powers detailed tracking and querying of financial operations in modern fintech environments.
-
-- **Cloud Graveyard Dashboard**: A backend tool to visualize and clean up unused AWS resources—because cloud hygiene should be traceable and satisfying.
-- **Fintech Retry Flow Simulator** *(WIP)*: Simulating ledgering, retries, and settlements with developer empathy baked in.
-- **Metro Rail Backend Intern**: Built traceable modules for Maharashtra Metro Rail Corp Ltd, optimizing backend flows and cloud usage.
 
 ---
 
